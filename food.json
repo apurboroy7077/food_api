@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Mutton Biriyani",
+    "price": "20$",
+    "rating": "7.5",
+    "description": "Made with Mutton, Butter Oil, Rice, and other ingredients. It is loved by most people."
+  },
+  {
+    "id": "2",
+    "name": "Chicken Tikka",
+    "price": "15$",
+    "rating": "8.0",
+    "description": "Delicious grilled chicken marinated in spices and yogurt."
+  },
+  {
+    "id": "3",
+    "name": "Vegetable Pasta",
+    "price": "12$",
+    "rating": "8.5",
+    "description": "A tasty pasta dish with a variety of fresh vegetables and creamy sauce."
+  },
+  {
+    "id": "4",
+    "name": "Beef Steak",
+    "price": "25$",
+    "rating": "9.2",
+    "description": "Juicy beef steak seasoned and cooked to perfection."
+  },
+  {
+    "id": "5",
+    "name": "Shrimp Scampi",
+    "price": "18$",
+    "rating": "7.8",
+    "description": "Succulent shrimp sautéed in garlic and butter with pasta."
+  },
+  {
+    "id": "6",
+    "name": "Veggie Burger",
+    "price": "10$",
+    "rating": "7.0",
+    "description": "A vegetarian burger with a variety of toppings and sauces."
+  },
+  {
+    "id": "7",
+    "name": "Salmon Sushi",
+    "price": "22$",
+    "rating": "8.7",
+    "description": "Fresh salmon slices served on a bed of vinegared rice."
+  },
+  {
+    "id": "8",
+    "name": "Pepperoni Pizza",
+    "price": "14$",
+    "rating": "8.3",
+    "description": "Classic pizza topped with pepperoni and melted cheese."
+  },
+  {
+    "id": "9",
+    "name": "Tofu Stir-Fry",
+    "price": "13$",
+    "rating": "7.9",
+    "description": "Stir-fried tofu with vegetables and savory sauce."
+  },
+  {
+    "id": "10",
+    "name": "Chocolate Cake",
+    "price": "8$",
+    "rating": "9.5",
+    "description": "Decadent chocolate cake with a rich, moist texture."
+  },
+  {
+    "id": "11",
+    "name": "Sushi Combo",
+    "price": "30$",
+    "rating": "9.0",
+    "description": "Assorted sushi rolls with fresh fish and rice."
+  },
+  {
+    "id": "12",
+    "name": "BBQ Ribs",
+    "price": "19$",
+    "rating": "8.4",
+    "description": "Tender barbecue ribs with a smoky flavor."
+  },
+  {
+    "id": "13",
+    "name": "Penne Alfredo",
+    "price": "14$",
+    "rating": "8.2",
+    "description": "Penne pasta in a creamy Alfredo sauce."
+  },
+  {
+    "id": "14",
+    "name": "Shrimp Tacos",
+    "price": "16$",
+    "rating": "8.6",
+    "description": "Grilled shrimp served in soft tortillas with salsa and coleslaw."
+  },
+  {
+    "id": "15",
+    "name": "Mango Lassi",
+    "price": "5$",
+    "rating": "7.7",
+    "description": "Refreshing Indian drink made with yogurt and mango."
+  },
+  {
+    "id": "16",
+    "name": "Greek Salad",
+    "price": "11$",
+    "rating": "8.1",
+    "description": "Crisp salad with tomatoes, cucumbers, olives, and feta cheese."
+  },
+  {
+    "id": "17",
+    "name": "Pineapple Fried Rice",
+    "price": "12$",
+    "rating": "8.3",
+    "description": "Fried rice with pineapple, vegetables, and a sweet and savory sauce."
+  },
+  {
+    "id": "18",
+    "name": "Lemon Sorbet",
+    "price": "7$",
+    "rating": "7.9",
+    "description": "Refreshing lemon-flavored frozen dessert."
+  },
+  {
+    "id": "19",
+    "name": "Paneer Tikka",
+    "price": "17$",
+    "rating": "8.8",
+    "description": "Indian appetizer with grilled cottage cheese and spices."
+  },
+  {
+    "id": "20",
+    "name": "Steamed Asparagus",
+    "price": "9$",
+    "rating": "7.2",
+    "description": "Fresh asparagus steamed to perfection."
+  }
+]
